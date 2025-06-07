@@ -29,7 +29,7 @@ speesh.ru
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/your-username/yolov7-buffed.git
+git clone
 cd yolov7-buffed
 pip install -r requirements.txt
 ```
